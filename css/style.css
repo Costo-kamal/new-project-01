@@ -303,7 +303,7 @@ body {
 
 .about-content .text hr {
   width: 50%;
-  display: inline-block;
+  display:inline-block;
   border-color: var (--main-color);
 }
 
